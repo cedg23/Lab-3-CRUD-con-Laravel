@@ -307,16 +307,15 @@ npm run dev
 ```
 
 ## 📸 Capturas de Pantalla
-**Página Principal**
-Interfaz de bienvenida con opciones de login y registro
-
-**Login**
+### Login**
 Formulario de autenticación de usuarios registrados
+![Login](public/img/login.png)
 
-**Registro**
+### Registro
 Formulario para crear nuevas cuentas de usuario
+![Registro](public/img/registro.png)
 
-**CRUD de Productos**
+### CRUD de Productos
 - Listar: Tabla con todos los productos
 - Crear: Formulario para agregar nuevo producto
 - Editar: Formulario para modificar producto existente
