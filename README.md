@@ -321,8 +321,8 @@ Formulario para crear nuevas cuentas de usuario
 - Editar: Formulario para modificar producto existente
 - Eliminar: Opción para borrar producto
 ![Productos](public/img/productos.png)
-![Productos](public/img/productos_(2).png)
-![Productos](public/img/productos_(3).png)
+![Productos](public/img/productos2.png)
+![Productos](public/img/productos3.png)
 
 ## 🔄 Flujo de la Aplicación
 ```
